@@ -1,13 +1,10 @@
+##项目经历
 
-- Outstanding Graduate Award (CUMT), 2025.
+####纵向项目：
+1.国家自然科学基金青年项目：任意形态颗粒离散元的破碎模型及与多体结构耦合算法研究（12302512），资助经费：30.00万元，项目起止年月：2024年01月至2026年12月，主持
+2.山西省基础研究计划，青年科学研究项目，考虑破碎的任意形态颗粒离散元方法及与多体系统结构耦合算法研究（202203021222118），资助经费：4.00万元，项目起止年月：2023年01月至2025年12月，主持
+3.2025年力学实验中心开放项目：颗粒材料的基本力学参数的实验创新研究，0.8万元.主持
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
-
+####横向项目：
+1. 缔造科技（大连）有限公司：离散元软件复杂形态颗粒的构造技术服务，项目经费：26万，项目起止年月：2025年10月至2026年10月，主持
+2. 湾研（上海）科技有限公司：多体结构动力特性检测功能在软件中的实现技术，项目经费：20万，项目起止年月s：2025年10月至2026年10月，主持

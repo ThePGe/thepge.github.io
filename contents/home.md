@@ -1,17 +1,20 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: shaominliang@tyut.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2015年9月-2021年6月  大连理工大学  硕博\
+2011年9月-2015年6月  湘潭大学      学士
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
 
+####Professional  Experience
+2024年12月-至今 太原理工大学，讲师 [[链接]](https://hkht.tyut.edu.cn/info/1021/3477.htm)
+
+2024年01月-2024年11月  太原理工大学，助理研究员
+
+2021年9月-2023年9月  太原理工大学，师资博士后
+
+#### Research Interests	
+1. 颗粒材料基本力学性质研究
+2. 颗粒材料与工程结构耦合算法研究
+3. 冷喷涂技术与应用
