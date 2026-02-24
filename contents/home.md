@@ -8,7 +8,7 @@ Email: shaominliang@tyut.edu.cn
 2011年9月-2015年6月  湘潭大学      学士
 
 #### Professional  Experience
-2024年12月-至今 太原理工大学，讲师 [[链接]](https://hkht.tyut.edu.cn/info/1021/3477.htm//) 
+2024年12月-至今 太原理工大学，讲师 [[链接]](https://hkht.tyut.edu.cn/info/1021/3477.htm)
 
 2024年01月-2024年11月  太原理工大学，助理研究员
 
